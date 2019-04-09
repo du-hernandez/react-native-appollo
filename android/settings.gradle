@@ -1,0 +1,3 @@
+rootProject.name = 'rnappollo'
+
+include ':app'
